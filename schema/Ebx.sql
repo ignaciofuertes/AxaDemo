@@ -1,8 +1,8 @@
-CREATE DATABASE  IF NOT EXISTS `Axa` /*!40100 DEFAULT CHARACTER SET utf8 */;
-USE `Axa`;
+CREATE DATABASE  IF NOT EXISTS `Ebx` /*!40100 DEFAULT CHARACTER SET utf8 */;
+USE `Ebx`;
 -- MySQL dump 10.13  Distrib 5.6.17, for osx10.6 (i386)
 --
--- Host: 10.0.52.174    Database: Axa
+-- Host: 10.0.52.174    Database: Ebx
 -- ------------------------------------------------------
 -- Server version	5.5.38-0ubuntu0.12.04.1
 
@@ -66,7 +66,7 @@ CREATE TABLE `Car` (
 
 LOCK TABLES `Car` WRITE;
 /*!40000 ALTER TABLE `Car` DISABLE KEYS */;
-INSERT INTO `Car` VALUES (1,'Axa Yaris 2015',14845.00),(2,'Axa Corolla 2015',16900.00),(3,'Axa Avalon',32560.00);
+INSERT INTO `Car` VALUES (1,'Ebx Yaris 2015',14845.00),(2,'Ebx Corolla 2015',16900.00),(3,'Ebx Avalon',32560.00);
 /*!40000 ALTER TABLE `Car` ENABLE KEYS */;
 UNLOCK TABLES;
 

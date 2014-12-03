@@ -3,7 +3,7 @@
         "id": 8,
         "car": {
             "id": 3,
-            "modelName": "Axa Avalon",
+            "modelName": "Ebx Avalon",
             "price": 32560.00
         },
         "colorName": "Blizzard Pearl",
@@ -13,7 +13,7 @@
         "id": 9,
         "car": {
             "id": 3,
-            "modelName": "Axa Avalon",
+            "modelName": "Ebx Avalon",
             "price": 32560.00
         },
         "colorName": "Classic Silver Metallic",
@@ -23,7 +23,7 @@
         "id": 10,
         "car": {
             "id": 3,
-            "modelName": "Axa Avalon",
+            "modelName": "Ebx Avalon",
             "price": 32560.00
         },
         "colorName": "Magnetic Grey Metallic",
@@ -33,7 +33,7 @@
         "id": 11,
         "car": {
             "id": 3,
-            "modelName": "Axa Avalon",
+            "modelName": "Ebx Avalon",
             "price": 32560.00
         },
         "colorName": "Attitude Black Metallic",
@@ -43,7 +43,7 @@
         "id": 12,
         "car": {
             "id": 3,
-            "modelName": "Axa Avalon",
+            "modelName": "Ebx Avalon",
             "price": 32560.00
         },
         "colorName": "Sizzling Crimson Mica",
@@ -53,7 +53,7 @@
         "id": 13,
         "car": {
             "id": 3,
-            "modelName": "Axa Avalon",
+            "modelName": "Ebx Avalon",
             "price": 32560.00
         },
         "colorName": "Ooh La La Rouge Mica",
@@ -63,7 +63,7 @@
         "id": 14,
         "car": {
             "id": 3,
-            "modelName": "Axa Avalon",
+            "modelName": "Ebx Avalon",
             "price": 32560.00
         },
         "colorName": "Creme Brulee Mica",
@@ -73,7 +73,7 @@
         "id": 15,
         "car": {
             "id": 3,
-            "modelName": "Axa Avalon",
+            "modelName": "Ebx Avalon",
             "price": 32560.00
         },
         "colorName": "Cypress Pearl",
@@ -83,7 +83,7 @@
         "id": 16,
         "car": {
             "id": 3,
-            "modelName": "Axa Avalon",
+            "modelName": "Ebx Avalon",
             "price": 32560.00
         },
         "colorName": "Parisian Night Pearl",
@@ -94,7 +94,7 @@
         "id": 1,
         "car": {
             "id": 3,
-            "modelName": "Axa Avalon",
+            "modelName": "Ebx Avalon",
             "price": 32560.00
         },
         "colorName": "Almond",
@@ -104,7 +104,7 @@
         "id": 2,
         "car": {
             "id": 3,
-            "modelName": "Axa Avalon",
+            "modelName": "Ebx Avalon",
             "price": 32560.00
         },
         "colorName": "Light Gray",
@@ -114,7 +114,7 @@
         "id": 3,
         "car": {
             "id": 3,
-            "modelName": "Axa Avalon",
+            "modelName": "Ebx Avalon",
             "price": 32560.00
         },
         "colorName": "Black",
@@ -125,7 +125,7 @@
         "id": 11,
         "car": {
             "id": 3,
-            "modelName": "Axa Avalon",
+            "modelName": "Ebx Avalon",
             "price": 32560.00
         },
         "description": "Alloy Wheel Locks",
@@ -134,7 +134,7 @@
         "id": 12,
         "car": {
             "id": 3,
-            "modelName": "Axa Avalon",
+            "modelName": "Ebx Avalon",
             "price": 32560.00
         },
         "description": "Door Edge Guards",
@@ -143,7 +143,7 @@
         "id": 13,
         "car": {
             "id": 3,
-            "modelName": "Axa Avalon",
+            "modelName": "Ebx Avalon",
             "price": 32560.00
         },
         "description": "Paint Protection Film",
@@ -152,7 +152,7 @@
         "id": 14,
         "car": {
             "id": 3,
-            "modelName": "Axa Avalon",
+            "modelName": "Ebx Avalon",
             "price": 32560.00
         },
         "description": "Rear Bumper Applique",
@@ -161,7 +161,7 @@
         "id": 15,
         "car": {
             "id": 3,
-            "modelName": "Axa Avalon",
+            "modelName": "Ebx Avalon",
             "price": 32560.00
         },
         "description": "Ashtray Cup",
@@ -170,7 +170,7 @@
         "id": 16,
         "car": {
             "id": 3,
-            "modelName": "Axa Avalon",
+            "modelName": "Ebx Avalon",
             "price": 32560.00
         },
         "description": "Cargo Net - Envelope",
@@ -179,7 +179,7 @@
         "id": 17,
         "car": {
             "id": 3,
-            "modelName": "Axa Avalon",
+            "modelName": "Ebx Avalon",
             "price": 32560.00
         },
         "description": "Cargo Tote",
@@ -188,7 +188,7 @@
         "id": 18,
         "car": {
             "id": 3,
-            "modelName": "Axa Avalon",
+            "modelName": "Ebx Avalon",
             "price": 32560.00
         },
         "description": "Emergency Assistance Kit",
@@ -197,7 +197,7 @@
         "id": 19,
         "car": {
             "id": 3,
-            "modelName": "Axa Avalon",
+            "modelName": "Ebx Avalon",
             "price": 32560.00
         },
         "description": "First Aid Kit",
@@ -206,7 +206,7 @@
         "id": 20,
         "car": {
             "id": 3,
-            "modelName": "Axa Avalon",
+            "modelName": "Ebx Avalon",
             "price": 32560.00
         },
         "description": "Glass Brakage Senson (GBS)",
@@ -215,7 +215,7 @@
         "id": 21,
         "car": {
             "id": 3,
-            "modelName": "Axa Avalon",
+            "modelName": "Ebx Avalon",
             "price": 32560.00
         },
         "description": "Illuminated Door Sills",
@@ -224,7 +224,7 @@
         "id": 22,
         "car": {
             "id": 3,
-            "modelName": "Axa Avalon",
+            "modelName": "Ebx Avalon",
             "price": 32560.00
         },
         "description": "Remote Engine Starter",

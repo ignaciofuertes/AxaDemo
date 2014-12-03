@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.elasticbox</groupId>
 	<artifactId>usecases</artifactId>
-	<name>AxaDemo</name>
+	<name>EbxDemo</name>
 	<packaging>war</packaging>
 	<version>1.0.0-BUILD-SNAPSHOT</version>
 	<properties>
@@ -152,7 +152,7 @@
 		</dependency>
 	</dependencies>
 	<build>
-		<finalName>AxaDemo</finalName>
+		<finalName>EbxDemo</finalName>
 		<plugins>
 			<plugin>
 				<artifactId>maven-eclipse-plugin</artifactId>

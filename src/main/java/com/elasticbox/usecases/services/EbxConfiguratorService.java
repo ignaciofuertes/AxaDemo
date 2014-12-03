@@ -7,7 +7,7 @@ import com.elasticbox.usecases.model.entities.Car;
 import com.elasticbox.usecases.model.entities.CarColor;
 import com.elasticbox.usecases.model.entities.RimsColor;
 
-public interface AxaConfiguratorService {
+public interface EbxConfiguratorService {
 	public List<Car> getAllCars();
 	public List<CarColor> getCarColorByCarId(long carId);
 	public List<RimsColor> getRimsColorByCarId(long carId);

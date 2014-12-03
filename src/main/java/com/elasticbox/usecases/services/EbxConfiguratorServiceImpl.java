@@ -16,7 +16,7 @@ import com.elasticbox.usecases.model.entities.CarColor;
 import com.elasticbox.usecases.model.entities.RimsColor;
 
 @Service
-public class AxaConfiguratorServiceImpl implements AxaConfiguratorService {
+public class EbxConfiguratorServiceImpl implements EbxConfiguratorService {
 
 	@Autowired
 	private CarDAO carDAO;

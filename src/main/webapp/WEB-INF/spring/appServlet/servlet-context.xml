@@ -31,7 +31,7 @@
 	
 	<beans:bean id="dataSource"
 		class="org.springframework.jndi.JndiObjectFactoryBean">
-		<beans:property name="jndiName" value="java:/Axa" />
+		<beans:property name="jndiName" value="java:/Ebx" />
 	</beans:bean>
 
 	<!-- Hibernate 3 SessionFactory Bean definition -->

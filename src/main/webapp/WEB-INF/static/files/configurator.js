@@ -1,6 +1,6 @@
 
-var AxaApp = angular.module('AxaApp', []);
-AxaApp.controller('ConfiguratorCtrl', function($scope, $http) {
+var EbxApp = angular.module('EbxApp', []);
+EbxApp.controller('ConfiguratorCtrl', function($scope, $http) {
 
     $scope.car = [];
     $scope.basePrice = 32560;
